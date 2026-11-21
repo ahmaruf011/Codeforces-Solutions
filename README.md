@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 14 |
+| 23 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (3)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [games](#games) (1)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (6)
@@ -36,6 +36,7 @@
 | 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
+| 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
 
 ### constructive algorithms
 
@@ -59,6 +60,7 @@
 | 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.cpp) |
 | 4D | [Mysterious Present](https://codeforces.com/contest/4/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/D%20-%20Mysterious%20Present/solution.cpp) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
 
 ### games
 
