@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 17 |
+| 27 | 18 |
 
 ---
 
@@ -23,7 +23,8 @@
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (9)
-- [math](#math) (6)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
@@ -136,6 +137,13 @@
 | 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 5D | [Follow Traffic Rules](https://codeforces.com/contest/5/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/D%20-%20Follow%20Traffic%20Rules/solution.cpp) |
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/C%20-%20Line/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/C%20-%20Line/solution.cpp) |
 
 ### shortest paths
 
