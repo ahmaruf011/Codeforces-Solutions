@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 18 |
+| 29 | 19 |
 
 ---
 
@@ -16,13 +16,14 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (4)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [dsu](#dsu) (1)
+- [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -74,12 +75,19 @@
 | 4D | [Mysterious Present](https://codeforces.com/contest/4/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/D%20-%20Mysterious%20Present/solution.cpp) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
+| 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
 
 ### dsu
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
+
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
 
 ### games
 
@@ -127,6 +135,7 @@
 | 5D | [Follow Traffic Rules](https://codeforces.com/contest/5/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/D%20-%20Follow%20Traffic%20Rules/solution.cpp) |
 | 6B | [President's Office](https://codeforces.com/contest/6/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/B%20-%20President's%20Office/solution.cpp) |
 | 7B | [Memory Manager](https://codeforces.com/contest/7/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/B%20-%20Memory%20Manager/solution.cpp) |
+| 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
 
 ### math
 
