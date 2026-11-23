@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 17 |
+| 26 | 17 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -124,6 +124,7 @@
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
 | 5D | [Follow Traffic Rules](https://codeforces.com/contest/5/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/D%20-%20Follow%20Traffic%20Rules/solution.cpp) |
 | 6B | [President's Office](https://codeforces.com/contest/6/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/B%20-%20President's%20Office/solution.cpp) |
+| 7B | [Memory Manager](https://codeforces.com/contest/7/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/B%20-%20Memory%20Manager/solution.cpp) |
 
 ### math
 
