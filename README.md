@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 17 |
+| 25 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (4)
 - [dsu](#dsu) (1)
@@ -46,6 +46,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
 | 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
+| 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.cpp) |
 
 ### constructive algorithms
 
@@ -53,6 +54,7 @@
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.cpp) |
 
 ### data structures
 
