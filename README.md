@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 19 |
+| 31 | 20 |
 
 ---
 
@@ -14,16 +14,17 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (5)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (3)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -57,6 +58,7 @@
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.cpp) |
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 
 ### data structures
 
@@ -103,6 +105,12 @@
 | 2C | [Commentator problem](https://codeforces.com/contest/2/problem/C) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/C%20-%20Commentator%20problem/solution.cpp) |
 | 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
 
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -136,6 +144,7 @@
 | 6B | [President's Office](https://codeforces.com/contest/6/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/B%20-%20President's%20Office/solution.cpp) |
 | 7B | [Memory Manager](https://codeforces.com/contest/7/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/B%20-%20Memory%20Manager/solution.cpp) |
 | 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
+| 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
 
 ### math
 
