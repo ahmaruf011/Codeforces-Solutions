@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 21 |
+| 33 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -21,7 +21,7 @@
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [geometry](#geometry) (3)
+- [geometry](#geometry) (4)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (3)
@@ -41,6 +41,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
+| 8D | [Two Friends](https://codeforces.com/contest/8/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/D%20-%20Two%20Friends/solution.cpp) |
 
 ### bitmasks
 
@@ -112,6 +113,7 @@
 | 1C | [Ancient Berland Circus](https://codeforces.com/contest/1/problem/C) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/1/C%20-%20Ancient%20Berland%20Circus/solution.cpp) |
 | 2C | [Commentator problem](https://codeforces.com/contest/2/problem/C) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/C%20-%20Commentator%20problem/solution.cpp) |
 | 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
+| 8D | [Two Friends](https://codeforces.com/contest/8/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/D%20-%20Two%20Friends/solution.cpp) |
 
 ### graphs
 
