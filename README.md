@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 19 |
+| 30 | 19 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (2)
 
@@ -176,6 +176,7 @@
 | 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 7D | [Palindrome Degree](https://codeforces.com/contest/7/problem/D) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/D%20-%20Palindrome%20Degree/solution.cpp) |
+| 8A | [Train and Peter](https://codeforces.com/contest/8/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/A%20-%20Train%20and%20Peter/solution.cpp) |
 
 ### trees
 
