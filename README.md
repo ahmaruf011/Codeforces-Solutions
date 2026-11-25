@@ -6,15 +6,116 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 16 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (2)
+- [games](#games) (1)
+- [geometry](#geometry) (3)
+- [greedy](#greedy) (4)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (4)
+- [math](#math) (5)
+- [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.cpp) |
+| 4D | [Mysterious Present](https://codeforces.com/contest/4/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/D%20-%20Mysterious%20Present/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1C | [Ancient Berland Circus](https://codeforces.com/contest/1/problem/C) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/1/C%20-%20Ancient%20Berland%20Circus/solution.cpp) |
+| 2C | [Commentator problem](https://codeforces.com/contest/2/problem/C) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/C%20-%20Commentator%20problem/solution.cpp) |
+| 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 3A | [Shortest path of the king](https://codeforces.com/contest/3/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/A%20-%20Shortest%20path%20of%20the%20king/solution.cpp) |
+| 3B | [Lorry](https://codeforces.com/contest/3/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/B%20-%20Lorry/solution.cpp) |
+| 3D | [Least Cost Bracket Sequence](https://codeforces.com/contest/3/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/D%20-%20Least%20Cost%20Bracket%20Sequence/solution.cpp) |
+| 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/1/B%20-%20Spreadsheet/solution.cpp) |
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
+| 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/1/B%20-%20Spreadsheet/solution.cpp) |
+| 1C | [Ancient Berland Circus](https://codeforces.com/contest/1/problem/C) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/1/C%20-%20Ancient%20Berland%20Circus/solution.cpp) |
+| 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 3A | [Shortest path of the king](https://codeforces.com/contest/3/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/A%20-%20Shortest%20path%20of%20the%20king/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 3B | [Lorry](https://codeforces.com/contest/3/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/B%20-%20Lorry/solution.cpp) |
+| 4D | [Mysterious Present](https://codeforces.com/contest/4/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/D%20-%20Mysterious%20Present/solution.cpp) |
 
 ### strings
 
