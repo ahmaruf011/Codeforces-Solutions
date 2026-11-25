@@ -6,27 +6,39 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 13 |
+| 30 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (1)
-- [dp](#dp) (2)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [data structures](#data-structures) (4)
+- [dp](#dp) (5)
+- [dsu](#dsu) (1)
+- [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (4)
-- [hashing](#hashing) (2)
-- [implementation](#implementation) (4)
-- [math](#math) (5)
+- [greedy](#greedy) (6)
+- [hashing](#hashing) (3)
+- [implementation](#implementation) (10)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [sortings](#sortings) (3)
+- [strings](#strings) (4)
+- [trees](#trees) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
 
 ### brute force
 
@@ -35,18 +47,25 @@
 | 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
+| 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
+| 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.cpp) |
 
 ### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 5E | [Bindian Signalizing](https://codeforces.com/contest/5/problem/E) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/E%20-%20Bindian%20Signalizing/solution.cpp) |
+| 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
 
 ### dp
 
@@ -54,6 +73,21 @@
 |---|---------|------------|----------|
 | 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.cpp) |
 | 4D | [Mysterious Present](https://codeforces.com/contest/4/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/D%20-%20Mysterious%20Present/solution.cpp) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
+| 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
+
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
 
 ### games
 
@@ -77,6 +111,8 @@
 | 3B | [Lorry](https://codeforces.com/contest/3/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/B%20-%20Lorry/solution.cpp) |
 | 3D | [Least Cost Bracket Sequence](https://codeforces.com/contest/3/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/D%20-%20Least%20Cost%20Bracket%20Sequence/solution.cpp) |
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 
 ### hashing
 
@@ -84,6 +120,7 @@
 |---|---------|------------|----------|
 | 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 7D | [Palindrome Degree](https://codeforces.com/contest/7/problem/D) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/D%20-%20Palindrome%20Degree/solution.cpp) |
 
 ### implementation
 
@@ -93,6 +130,12 @@
 | 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
 | 3C | [Tic-tac-toe](https://codeforces.com/contest/3/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/C%20-%20Tic-tac-toe/solution.cpp) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 5A | [Chat Servers Outgoing Traffic](https://codeforces.com/contest/5/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/A%20-%20Chat%20Servers%20Outgoing%20Traffic/solution.cpp) |
+| 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
+| 5D | [Follow Traffic Rules](https://codeforces.com/contest/5/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/D%20-%20Follow%20Traffic%20Rules/solution.cpp) |
+| 6B | [President's Office](https://codeforces.com/contest/6/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/B%20-%20President's%20Office/solution.cpp) |
+| 7B | [Memory Manager](https://codeforces.com/contest/7/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/B%20-%20Memory%20Manager/solution.cpp) |
+| 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
 
 ### math
 
@@ -103,6 +146,14 @@
 | 1C | [Ancient Berland Circus](https://codeforces.com/contest/1/problem/C) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/1/C%20-%20Ancient%20Berland%20Circus/solution.cpp) |
 | 2B | [The least round way](https://codeforces.com/contest/2/problem/B) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/2/B%20-%20The%20least%20round%20way/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 5D | [Follow Traffic Rules](https://codeforces.com/contest/5/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/D%20-%20Follow%20Traffic%20Rules/solution.cpp) |
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/C%20-%20Line/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/C%20-%20Line/solution.cpp) |
 
 ### shortest paths
 
@@ -116,12 +167,29 @@
 |---|---------|------------|----------|
 | 3B | [Lorry](https://codeforces.com/contest/3/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/3/B%20-%20Lorry/solution.cpp) |
 | 4D | [Mysterious Present](https://codeforces.com/contest/4/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/4/D%20-%20Mysterious%20Present/solution.cpp) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 5B | [Center Alignment](https://codeforces.com/contest/5/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/B%20-%20Center%20Alignment/solution.cpp) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 7D | [Palindrome Degree](https://codeforces.com/contest/7/problem/D) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/D%20-%20Palindrome%20Degree/solution.cpp) |
 | 8A | [Train and Peter](https://codeforces.com/contest/8/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/A%20-%20Train%20and%20Peter/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
+| 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
 
 ---
 
