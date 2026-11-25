@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 20 |
+| 32 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (4)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
@@ -40,6 +41,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/E%20-%20Exposition/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 8C | [Looking for Order](https://codeforces.com/contest/8/problem/C) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/C%20-%20Looking%20for%20Order/solution.cpp) |
 
 ### brute force
 
@@ -78,6 +85,7 @@
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
 | 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
+| 8C | [Looking for Order](https://codeforces.com/contest/8/problem/C) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/C%20-%20Looking%20for%20Order/solution.cpp) |
 
 ### dsu
 
