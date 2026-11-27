@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 21 |
+| 34 | 21 |
 
 ---
 
@@ -17,12 +17,12 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (4)
-- [dp](#dp) (6)
+- [dp](#dp) (7)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (4)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (11)
@@ -87,6 +87,7 @@
 | 6D | [Lizards and Basements 2](https://codeforces.com/contest/6/problem/D) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/6/D%20-%20Lizards%20and%20Basements%202/solution.cpp) |
 | 7E | [Defining Macros](https://codeforces.com/contest/7/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/7/E%20-%20Defining%20Macros/solution.cpp) |
 | 8C | [Looking for Order](https://codeforces.com/contest/8/problem/C) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/C%20-%20Looking%20for%20Order/solution.cpp) |
+| 8E | [Beads](https://codeforces.com/contest/8/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/E%20-%20Beads/solution.cpp) |
 
 ### dsu
 
@@ -120,6 +121,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 8B | [Obsession with Robots](https://codeforces.com/contest/8/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/B%20-%20Obsession%20with%20Robots/solution.cpp) |
+| 8E | [Beads](https://codeforces.com/contest/8/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/ahmaruf011/Codeforces-Solutions/blob/HEAD/8/E%20-%20Beads/solution.cpp) |
 
 ### greedy
 
